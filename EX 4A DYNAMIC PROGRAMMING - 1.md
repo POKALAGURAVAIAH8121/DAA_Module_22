@@ -16,9 +16,7 @@ To find longest common subsequence using Dynamic Programming.
 
 ```
 /*
-Program to implement the longest common subsequence using Dynamic Programming
 
-.
 Developed by: POKALA GURAVAIAH
 Register Number: 212222040114
 */
